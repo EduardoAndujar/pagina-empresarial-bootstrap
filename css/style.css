@@ -1,0 +1,56 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #000000;
+}
+
+.nav-link {
+    color: rgb(169, 238, 255);
+}
+
+.quem-somos {
+    background-color: rgb(255, 255, 255);
+    color: #db6f6f;
+}
+
+.parceiros {
+    background-color: rgb(255, 255, 255);
+    color: #db6f6f;
+}
+
+.servicos {
+    background-color: rgb(255, 255, 255);
+    color: #db6f6f;
+}
+
+.margin {
+    padding: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-top: 4px solid #db6f6f;
+}
+
+.margin2 {
+    padding: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.img-Padrao1 {
+    width: 100%;
+    margin: 0;
+}
+
+.img-game {
+    height: 400px;
+    max-width: 100%;
+    object-fit: cover;
+}
+
+.bg-footer {
+    padding-top: 14px;
+    background-color: #000000;
+    color: rgb(169, 238, 255);
+}
